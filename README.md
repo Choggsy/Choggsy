@@ -66,9 +66,9 @@ Here are a few repos that are close to my heart (or braincell):
 
 ## 💬 Let’s Connect
 
-- 💌 Email me: [TBC@example.com]  
-- 📎 [LinkedIn: Chloé Greenstreet](https://www.linkedin.com/in/chlo%C3%A9-greenstreet/)  
-- 🤝 Always open to talk technology or career development
+<!--💌 Email me: [TBC@example.com]   -->
+📎 [LinkedIn: Chloé Greenstreet](https://www.linkedin.com/in/chlo%C3%A9-greenstreet/)  
+🤝 Always open to talk technology or career development
 
 If any of my repos make you smile, raise an eyebrow, or teach you something new—drop a ⭐️ or say hi on one of my socials!
 </div>
