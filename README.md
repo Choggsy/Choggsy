@@ -11,7 +11,7 @@
 <p>
   <img src="https://img.shields.io/badge/Open%20Source-Beginner-ff69b4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🌱_Tech4Good-Impact%20Driven-4CAF50?style=for-the-badge" alt="Tech4Good Badge"/>
-  <img src="https://img.shields.io/badge/Morning_Person-Coding☀️-F9A825?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Morning-Coding☀️-F9A825?style=for-the-badge"/>
 </p>
 
 ---
@@ -70,5 +70,5 @@ Here are a few repos that are close to my heart (or braincell):
 📎 [LinkedIn: Chloé Greenstreet](https://www.linkedin.com/in/chlo%C3%A9-greenstreet/)  
 🤝 Always open to talk technology or career development
 
-If any of my repos make you smile, raise an eyebrow, or teach you something new—drop a ⭐️ or say hi on one of my socials!
+If any of my repos make you smile say hi on one of my social!
 </div>
