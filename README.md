@@ -5,7 +5,6 @@
 <p style="font-size: 1.2em; margin-top: 0; font-style: italic;">
   Welcome to my GitHub corner 👩‍💻<br>
   I build things. I break things. Then I give myself a migraine.<br>
-  Forever curious—learning on the job or obsessing over a bug I dreamt about at 2AM 🐛 ☕
 </p>
 
 <p>
@@ -54,8 +53,6 @@ Writing workshops for technologies I’ve learned, so I can remember them by tea
 
 ## 📌 Pinned Projects
 
-Here are a few repos that are close to my heart (or braincell):
-
 🗂️ [Habit Tracker App](https://github.com/Choggsy/habit-tracker-flutter) – Flutter + Dart, deployment walkthrough, beautiful design
 🌀 [AWS Serverless Playground](https://github.com/Choggsy/aws-serverless-lab) – Lambda, API Gateway, DynamoDB experiments
 📘 [Learning Library](https://github.com/Choggsy/tech-workshops) – mini tech workshops and notes I wish existed when I started
@@ -69,6 +66,4 @@ Here are a few repos that are close to my heart (or braincell):
 <!--💌 Email me: [TBC@example.com]   -->
 📎 [LinkedIn: Chloé Greenstreet](https://www.linkedin.com/in/chlo%C3%A9-greenstreet/)  
 🤝 Always open to talk technology or career development
-
-If any of my repos make you smile say hi on one of my social!
 </div>
